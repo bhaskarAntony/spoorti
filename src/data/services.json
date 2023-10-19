@@ -1,0 +1,35 @@
+{
+    "heading": "Services",
+    "list": [
+        {
+            "eventImage": "meetings",
+            "eventName": "Schedule Meetings !",
+            "eventDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        },
+        {
+            "eventImage": "events",
+            "eventName": "Organize Events !",
+            "eventDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        },
+        {
+            "eventImage": "stay",
+            "eventName": "Pleasent Stay",
+            "eventDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        },
+        {
+            "eventImage": "meetings",
+            "eventName": "Table booking !",
+            "eventDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        },
+        {
+            "eventImage": "events",
+            "eventName": "Food Service",
+            "eventDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        },
+        {
+            "eventImage": "stay",
+            "eventName": "Kitchen Utilization",
+            "eventDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+        }
+    ]
+}

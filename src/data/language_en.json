@@ -1,0 +1,551 @@
+{
+    "serviceHeadingLabel": "Services",
+    "appDownloadLabel": "App Download",
+    "adminLoginLabel": "Admin Login",
+    "publicHeadingLabel": "Department Events",
+    "privateHeadingLabel": "Private Events",
+    "contactDirectoriesLabel": "Contact Directories",
+    "viewOnMapsLabel": "View On Maps",
+    "enquiryHeadingLabel": "Leave an Enquiry",
+    "nameLabel": "Name",
+    "phoneNumberLabel": "Phone Number",
+    "messgeLabel": "Message",
+    "typeNameLabel": "Type your name",
+    "typePhoneNumberLabel": "Type your Phone Number",
+    "typeMessageLabel": "Write a message",
+    "submitButtonText": "Submit",
+    "contactMobile": "+91 8277945903",
+    "contactEmail": "sportikarnataka@gmail.com",
+    "reportUs": "Report us",
+    "reportEmail": "tech@hanuvel.com",
+    "contactAddress": [
+        "#01, Prim Rose Road, Ashok Nagar, Bengaluru - 560025 Karnataka"
+    ],
+    "headerLogotext": "Senior Police Officers",
+    "recentEvents": "Recent Events",
+    "liveEvents": "Live Events",
+    "todaysEvent": "Today’s Event",
+    "upcomingEvents": "Upcoming Events",
+    "upcomingEvent": "Upcoming Events",
+    "whatsNew": "What’s New",
+    "banerScrollText": "For any Event Booking Contact Admin or Download the SPORTI App from Playstore * Applicable only for Police Dept* ",
+    "newEventInfo": [
+        {
+            "label": "Meetings",
+            "icon": "meeting",
+            "redirectionPath": "/faqs"
+        },
+        {
+            "label": "Implementing Plans",
+            "icon": "plans",
+            "redirectionPath": "/about_us"
+        },
+        {
+            "label": "Schedule Meetings",
+            "icon": "scheduleMeeting",
+            "redirectionPath": "/faqs"
+        },
+        {
+            "label": "Services",
+            "icon": "training",
+            "redirectionPath": "/facilities"
+        }
+    ],
+    "officerInfo": [
+        {
+            "name": "SRI BASAVARAJ BOMMAI",
+            "position": "Hon’ble Chief Minister | Govt. of Karnataka"
+        },
+        {
+            "name": "Sri Araga Jnanendra",
+            "position": "Hon’ble Minister for Home Government of Karnataka"
+        },
+        {
+            "name": "Shri. Alok Mohan, IPS",
+            "position": "Director General & Inspector General of Police",
+            "location": " "
+        },
+        {
+            "name": "Shri. B Dayanand, IPS",
+            "position": "Commisioner of Police",
+            "location": "Bangalore City"
+        }
+    ],
+    "footer": {
+        "contentOwned": {
+            "label": "CONTENT OWNED BY: ",
+            "value": "SPORTI - Senior Police Officers Research and Training Institute"
+        },
+        "hostedBy": {
+            "label": "Designed, Developed & Hosted By: ",
+            "value": "Hanuvel Consultant India Private Limited, Government of Karnataka ©2023, All Rights Reserved."
+        },
+        "lastUpdated": "Page last updated on:",
+        "quickLinks": {
+            "label": "Quick Links",
+            "list": [
+                {
+                    "label": "Privacy Policy",
+                    "redirectionPath": "/privacy_policy"
+                },
+                {
+                    "label": "Terms and Conditions",
+                    "redirectionPath": "/terms_and_conditions"
+                },
+                {
+                    "label": "Sitemap",
+                    "redirectionPath": "/sitemap"
+                },
+                {
+                    "label": "Help",
+                    "redirectionPath": "/help"
+                }
+            ]
+        },
+        "disclaimerLabel": "Disclaimer",
+        "disclaimerDescription": "SPORTI events are accessible for police sector of karnataka designated ACP and above higher Officials. General public has no access for the mentioned services",
+        "contactUsLabel": "Contact Us",
+        "copyRightslabel": "Copy rights issues",
+        "designByLabel": "Design and maintained by",
+        "companyName": "Hanuvel Consultant and India Pvt Ltd",
+        "visitors": {
+            "label": "Visitors",
+            "list": [
+                {
+                    "label": "Version: ",
+                    "value": "CeG/KRN 2.0"
+                },
+                {
+                    "label": "Visitors Counter: ",
+                    "value": "10675"
+                },
+                {
+                    "label": "Last Updated​: ",
+                    "value": "21-09-2020 09:34 AM"
+                }
+            ]
+        }
+    },
+    "list": [
+        {
+            "label": "Home",
+            "originalLabel": "Home",
+            "redirect": "/home"
+        },
+        {
+            "label": "About Us",
+            "originalLabel": "About Us",
+            "redirect": "/about_us"
+        },
+        {
+            "label": "Services",
+            "originalLabel": "Services",
+            "show": true,
+            "redirect": "/facilities"
+        },
+        {
+            "label": "Events & Gallery",
+            "originalLabel": "Events",
+            "show": true,
+            "redirect": "/events"
+        },
+        {
+            "label": "FAQ",
+            "originalLabel": "FAQ",
+            "show": true,
+            "redirect": "/faqs"
+        },
+        {
+            "label": "Contact Us",
+            "originalLabel": "Contact Us",
+            "show": true,
+            "redirect": "/contact_us"
+        }
+    ],
+    "listAfterSignIn": [
+        {
+            "label": "Room",
+            "redirect": "/admin/room",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                },
+                {
+                    "label": "Products"
+                }
+            ]
+        },
+        {
+            "label": "Event",
+            "redirect": "/admin/event",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                },
+                {
+                    "label": "Products"
+                }
+            ]
+        },
+        {
+            "label": "Food",
+            "redirect": "/admin/food",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                },
+                {
+                    "label": "Products"
+                }
+            ]
+        },
+        {
+            "label": "Dine-in",
+            "redirect": "/admin/dine-in",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                },
+                {
+                    "label": "Products"
+                }
+            ]
+        },
+        {
+            "label": "Query",
+            "redirect": "/admin/query",
+            "submenu": []
+        },
+        {
+            "label": "User Approval",
+            "redirect": "/user-approval",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                }
+            ]
+        },
+        {
+            "label": "Post",
+            "redirect": "/admin/post",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                },
+                {
+                    "label": "Products"
+                }
+            ]
+        }
+    ],
+    "termsNConditions": {
+        "headingLabel": "Terms and Condition",
+        "descriptionList": [
+            {
+                "labeltext": "The following terms and conditions govern the access and use of the facilities of the SPORTI (the Institute). By accessing and using the Institute's facilities, you agree to be bound by these terms and conditions. If you do not agree to these terms and conditions, you may not use the Institute's facilities.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Access and Use of Facilities",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "1.1 Access to the Institute's facilities is restricted to authorized individuals only.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "1.2 You must comply with all Institute policies, procedures, and guidelines when accessing and using the Institute's facilities.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "1.3 You are responsible for any damage to the Institute's facilities caused by your actions or omissions.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "1.4 The Institute reserves the right to revoke or suspend your access to the facilities at any time, without notice and for any reason, including but not limited to violation of these terms and conditions.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "1.5 The Institute may monitor your use of the facilities to ensure compliance with these terms and conditions and to ensure the security and proper functioning of the facilities.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "1.6 You must not use the Institute's facilities for any unlawful purpose or in a manner that violates the rights of others.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "1.7 You must not interfere with or disrupt the operation of the Institute's facilities or networks.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "1.8 You must not use the Institute's facilities to send unsolicited messages or engage in any form of spamming.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "1.9 You must not attempt to gain unauthorized access to the Institute's facilities or networks, or to any other system or network connected to the Institute's facilities.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "1.10 You must not use the Institute's facilities to engage in any activity that could damage, disable, overburden, or impair the Institute's facilities or networks, or any other system or network connected to the Institute's facilities.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Liability and Indemnification",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "2.1 The Institute is not responsible for any injury, loss, or damage to any person or property resulting from the use of the Institute's facilities.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "2.2 You agree to indemnify and hold the Institute and its officers, directors, employees, agents, and affiliates harmless from any claim, demand, or damage, including reasonable attorneys' fees, arising out of your use of the Institute's facilities, your violation of these terms and conditions, or your violation of any applicable law or regulation.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "2.3 The Institute is not liable for any loss or damage arising from any interruption or failure of the Institute's facilities or networks, or any other system or network connected to the Institute's facilities.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Intellectual Property",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "3.1 All intellectual property rights in the Institute's facilities, including but not limited to trademarks, copyrights, patents, and trade secrets, are owned by the Institute or its licensors.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "3.2 You may not use the Institute's facilities or any content therein for any commercial purpose without the express written permission of the Institute.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "3.3 You may not modify, reproduce, distribute, display, or create derivative works based on the Institute's facilities or any content therein without the express written permission of the Institute.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Termination",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "4.1 The Institute may terminate your access to the facilities at any time, without notice and for any reason.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "4.2 Upon termination, you must immediately cease all use of the Institute's facilities and return any materials belonging to the Institute.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Governing Law and Jurisdiction",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "5.1 These terms and conditions shall be governed by and construed in accordance with the laws of the jurisdiction in which the Institute is located.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "5.2 Any dispute arising out of or in connection with these terms and conditions shall be resolved exclusively in the courts of the jurisdiction in which the Institute is located.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Entire Agreement",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "6.1 These terms and conditions constitute the entire agreement between you and the Institute with respect to the access and use of the Institute's facilities",
+                "labelType": "para"
+            }
+        ]
+    },
+    "privacyPloicy": {
+        "headingLabel": "Privacy Policy",
+        "descriptionList": [
+            {
+                "labeltext": "Collection of Information:",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "We may collect personal information from users, including but not limited to names, email addresses, phone numbers, and browsing data, when users voluntarily provide this information through forms on our website or through other means such as cookies or tracking technologies.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Use of Information:",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "We may use the collected information to provide services, improve our products, communicate with users, and for marketing purposes. We may also share the information with trusted third parties who assist us in operating our website or providing services to users.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Data Retention:",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "We will retain the collected information for as long as necessary to fulfill the purposes for which it was collected or as required by law. Users can request the deletion of their information by contacting us using the contact information provided below.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Data Security:",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "We implement appropriate technical and organizational measures to protect the collected information from unauthorized access, loss, or misuse. However, please note that no method of data transmission over the internet or electronic storage is completely secure and we cannot guarantee absolute security.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "User Rights:",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "Users have the right to access, correct, or delete their personal information. Users can also request information about the types of personal information we have collected and the purposes for which it has been used. Requests can be made using the contact information provided below.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Cookies and Tracking Technologies:",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "We may use cookies, web beacons, and other tracking technologies to collect information about users' browsing behavior, preferences, and usage patterns. Users can manage their cookie preferences through their browser settings.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Third-Party Links:",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "Our website may contain links to third-party websites or services. We are not responsible for the privacy practices or content of those third parties. We encourage users to review the privacy policies of any third-party websites or services they visit.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Children's Privacy:",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "Our website is not intended for children under the age of 13, and we do not knowingly collect personal information from children. If we become aware that we have inadvertently collected personal information from a child, we will take steps to delete it as soon as possible.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Changes to the Privacy Policy:",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "We may update or revise this Privacy Policy from time to time, and any changes will be posted on our website. Users are encouraged to review the Privacy Policy periodically for any updates or changes.",
+                "labelType": "para"
+            },
+            {
+                "labeltext": "Contact Information:",
+                "labelType": "heading"
+            },
+            {
+                "labeltext": "If users have any questions, concerns, or requests regarding their privacy or this Privacy Policy, they can contact us at mobile : +91 8277945903 and Email : sportikarnataka@gmail.com].",
+                "labelType": "para"
+            }
+        ]
+    },
+    "appDownload": {
+        "headingLabel": "App Download Content!",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text",
+        "buttonText": "Download Now"
+    },
+    "help": {
+        "headingLabel": "Help",
+        "descriptionList": [
+            "Viewing Information in Various File Formats This website includes some content that is available in non-HTML format. They might not be visible properly if your browser does not have the required plug-ins.",
+            "For example, Acrobat Reader software is required to view Adobe Acrobat PDF files. If you do not have this software installed on your computer, you can download it for free. The following table lists some plug-ins that you will require."
+        ]
+    },
+    "accessiblity": {
+        "headingLabel": "Screen Reader Access",
+        "descriptionList": [
+            "The website complies with World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 level AA. This will enable people with visual impairments access the website using assistive technologies, such as screen readers. The information of the website is accessible with different screen readers, such as JAWS, NVDA, SAFA, Supernova and Window-Eyes",
+            "Following table lists the information about different screen readers:"
+        ]
+    },
+    "sitemap": {
+        "headingLabel": "Sitemap",
+        "list": [
+            {
+                "label": "Home",
+                "originalLabel": "Home",
+                "redirect": "/home"
+            },
+            {
+                "label": "About Us",
+                "originalLabel": "About Us",
+                "redirect": "/about_us"
+            },
+            {
+                "label": "Facilities",
+                "originalLabel": "Facilities",
+                "redirect": "/facilities"
+            },
+            {
+                "label": "Events Gallery",
+                "originalLabel": "Events",
+                "redirect": "/events"
+            },
+            {
+                "label": "FAQ's",
+                "originalLabel": "FAQ's",
+                "redirect": "/faqs"
+            },
+            {
+                "label": "Contact Us",
+                "originalLabel": "Contact Us",
+                "redirect": "/contact_us"
+            },
+            {
+                "label": "Terms and Condition",
+                "originalLabel": "Terms and Condition",
+                "redirect": "/terms_and_conditions"
+            },
+            {
+                "label": "Privacy Policy",
+                "originalLabel": "Privacy Policy",
+                "redirect": "/privacy_policy"
+            },
+            {
+                "label": "Sitemap",
+                "originalLabel": "Sitemap",
+                "redirect": "/sitemap"
+            },
+            {
+                "label": "Help",
+                "originalLabel": "Help",
+                "redirect": "/help"
+            }
+        ]
+    },
+    "breadcrumb": [
+        {
+            "pageName": "Home",
+            "pageLink": "/home"
+        }
+    ],
+    "eventBreadcrumb": [
+        {
+            "pageName": "Home",
+            "pageLink": "/home"
+        },
+        {
+            "pageName": "Events",
+            "pageLink": "/events"
+        }
+    ]
+}
