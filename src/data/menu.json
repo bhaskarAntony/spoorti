@@ -1,0 +1,107 @@
+{
+    "list": [
+        {
+            "label": "Home",
+            "redirect": "/home"
+        },
+        {
+            "label": "About Us",
+            "redirect": "/about_us"
+        },
+        {
+            "label": "Events & Gallery",
+            "show": true,
+            "redirect": "/events"
+        },
+        {
+            "label": "Services",
+            "show": true,
+            "redirect": "/facilities"
+        },
+        {
+            "label": "Contact Us",
+            "show": true,
+            "redirect": "/contact_us"
+        }
+    ],
+    "listAfterSignIn": [
+        {
+            "label": "Room",
+            "redirect": "/admin/room",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                },
+                {
+                    "label": "Products"
+                }
+            ]
+        },
+        {
+            "label": "Event",
+            "redirect": "/admin/event",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                },
+                {
+                    "label": "Products",
+                    "disable": false
+                }
+            ]
+        },
+        {
+            "label": "Food",
+            "redirect": "/admin/food",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                },
+                {
+                    "label": "Products"
+                }
+            ]
+        },
+        {
+            "label": "Dine In",
+            "redirect": "/admin/dine_in",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                },
+                {
+                    "label": "Products"
+                }
+            ]
+        },
+        {
+            "label": "Query",
+            "redirect": "/admin/query",
+            "submenu": [ ]
+        },
+        {
+            "label": "User",
+            "redirect": "/admin/user_approval",
+            "submenu": [
+                {
+                    "label": "Requests"
+                },
+                {
+                    "label": "Transactions"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+import { baseApiServer } from "./environment";
+
+export const apiList = {
+    // home: `${baseApiServer("WEB")}/home`,
+    home:`${baseApiServer("WEB")}/home/new`,
+    aboutus: `${baseApiServer("WEB")}/aboutus`,
+    events: `${baseApiServer("WEB")}/events`,
+    training: `${baseApiServer("WEB")}/training`,
+    contactus: `${baseApiServer("WEB")}/contactus`,
+    faq: `${baseApiServer("WEB")}/faq`,
+    enquiry: `${baseApiServer("WEB")}/contactus/query`,
+    eventDetail: `${baseApiServer("ADMIN")}/api/event`,
+    adminLogin: `${baseApiServer("ADMIN")}/login`,
+    adminEvents: `${baseApiServer("ADMIN")}/api/events`,
+    adminUserApprovals: `${baseApiServer("ADMIN")}/users`,
+    adminQueries: `${baseApiServer("WEB")}/queries`,
+    adminRooms: `${baseApiServer("ADMIN")}/api/rooms`,
+    adminApproveRooms: `${baseApiServer("ADMIN")}/api/room/book/approve`,
+    adminApproveEvents: `${baseApiServer("ADMIN")}/api/event/approve`,
+    adminApproveUsers: `${baseApiServer("ADMIN")}/user/approve`,
+    adminFood: `${baseApiServer("PLAIN")}/rest/food/orders`,
+    adminApproveFood: `${baseApiServer("PLAIN")}/rest/food/approve-or-reject`,
+    adminTables: `${baseApiServer("WEB")}/tables`,
+    adminApproveTable: `${baseApiServer("WEB")}/table/approve`,
+    foodProducts: `${baseApiServer("PLAIN")}/rest/food/items`,
+    updateProductStatus: `${baseApiServer("PLAIN")}/rest/food/product`,
+    roomProducts: `${baseApiServer("PLAIN")}/mob/api/room/products`,
+    updateRoomProductStatus: `${baseApiServer("ADMIN")}/api/room/product`,
+    eventProducts: `${baseApiServer("ADMIN")}/api/event/products/list`,
+    updateEventProductStatus: `${baseApiServer("ADMIN")}/api/event/product`,
+    tableProducts: `${baseApiServer("WEB")}/table/products`,
+    updateTableProductStatus: `${baseApiServer("WEB")}/table/product`
+}

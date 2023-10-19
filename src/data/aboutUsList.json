@@ -1,0 +1,43 @@
+{
+    "banners": [
+        {
+            "image_url": "/images/aboutus/smwaus_banner_1.jpg"
+        },
+        {
+            "image_url": "/images/aboutus/smwaus_banner_2.jpg"
+        },
+        {
+            "image_url": "/images/aboutus/smwaus_banner_3.jpg"
+        },
+        {
+            "image_url": "/images/aboutus/smwaus_2.jpg"
+        },
+        {
+            "image_url": "/images/aboutus/smwaus_3.jpg"
+        }
+    ],
+    "about_us": [
+        {
+            "description_en": "SPORTI consists of a team of Senior Officers from various units of the Police Department. It also has a Working Committee who conduct various Conferences and Workshops to discuss the operations and functioning of the Institute. \nThe team hosts periodic meetings every last Friday of the month for effective improvements of the Institute.",
+            "description_ka": "SPORTI ಪೊಲೀಸ್ ಇಲಾಖೆಯ ವಿವಿಧ ಘಟಕಗಳ ಹಿರಿಯ ಅಧಿಕಾರಿಗಳ ತಂಡವನ್ನು ಒಳಗೊ ಂಡಿದೆ. ಇದು ಸಂಸ್ಥೆಯ ಕಾರ್ಯಾಚರಣೆಗಳು ಮತ್ತುಕಾರ್ಯಚಟುವಟಿಕೆಗಳನ್ನು ಚರ್ಚಿಸಲು ವಿವಿಧ ಸಮ್ಮೇಳನಗಳು ಮತ್ತುಕಾರ್ಯಾಗಾರಗಳನ್ನು ನಡೆಸುವ ಕಾರ್ಯಕಾರಿ ಸಮಿತಿಯನ್ನು ಸಹ ಹೊ ಂದಿದೆ. ಸಂಸ್ಥೆಯ ಪರಿಣಾಮಕಾರಿ ಸುಧಾರಣೆಗಳಿಗಾಗಿ ತಂಡವು ಪ್ರತಿ ತಿಂಗಳ ಕೊನೆಯ ಶುಕ್ರವಾರದಂದು ಆವರ್ತಕ ಸಭೆಗಳನ್ನು ಆಯೋಜಿಸುತ್ತದ"
+        },
+        {
+            "caption_en": "SPORTI - Senior Police Officers Research and Training Institute",
+            "caption_ka": "SPORTI ಗೆ ಸುಸ್ವಾಗತ",
+            "description_en": "SPORTI - Senior Police Officers Research and Training Institute was established in the year 1973 and has been successfully catering to the needs of Police department. It was priorly known as Senior  Police Officer Mess and renamed to SPORTI in 2019 to enhance the quality of services being provided.\n SPORTI is an all exclusive facility for both serving and retired senior police officials only. It fulfils the requirement of organising conferences and training, accommodation, host private and public events, celebrations and dining. \nSPORTI boasts of superior and quality infrastructure featuring an elegant conference room, extensive event hall, state of art mini theatre for screening of movies and documentaries, luxurious accommodation - VIP, family and executive rooms, impressive indoor dining hall and outdoor barbecue, well equipped gym for maintaining fitness, sporting avenues like Badminton, Table tennis and Billiards.  \nSPORTI’s central location enables our guests to reach important official destinations with reduced travel time and also experience Bangalore’s cosmopolitan culture post work hours. ",
+            "description_ka": "SPORTI ಅನ್ನು ಮೊದಲು \"ಹಿರಿಯ ಪೊಲೀಸ್ ಅಧಿಕಾರಿ ಮೆಸ್\" ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು ಮತ್ತು 45 ವರ್ಷಗಳು ಮತ್ತು ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಕಾಲ ಭವ್ಯವಾದ ಅಸ್ತಿತ್ವವನ್ನು ಹೊಂದಿತ್ತು. ಪೊಲೀಸ್ ಅಧಿಕಾರಿಗಳ ವಿಶಿಷ್ಟ ಅಗತ್ಯಗಳನ್ನು ಪೂರೈಸುವ ಕಲ್ಪನೆಯೊಂದಿಗೆ ಇದನ್ನು 1973 ರಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾಯಿತು. ಇದನ್ನು 2019 ರಲ್ಲಿ \"ಹಿರಿಯ ಪೊಲೀಸ್ ಅಧಿಕಾರಿಗಳ ಸಂಶೋಧನೆ ಮತ್ತು ತರಬೇತಿ ಸಂಸ್ಥೆ\" \n ಎಂದು ಮರುನಾಮಕರಣ ಮಾಡಲಾಯಿತು, ಇದು ಪೊಲೀಸ್ ಅಧಿಕಾರಿಗಳಿಗೆ ಸೇವೆಗಳ ಗುಣಮಟ್ಟವನ್ನು ವಿಸ್ತರಿಸುವ ಉದ್ದೇಶವನ್ನು ಹೊಂದಿದೆ.",
+            "image_url": "/images/aboutus/smwaus_1.jpg",
+            "name_en": "Senior Police Officers Research and Training Institute – SPORTI",
+            "name_ka": "SPORTI ಗೆ ಸುಸ್ವಾಗತ"
+        },
+        {
+            "caption_en": "Team SPORTI",
+            "caption_ka": "ನಾವು ಏನು ಮಾಡುವುದು?",
+            "description_en": "SPORTI has a working committee comprising of senior officers from various units of Karnataka State Police. They strive to provide quality facilities and services to all senior members of Karnataka State Police. The team meets on the last Friday of every month to discuss various activities of SPORTI , assess feedbacks and take measures to enhance the services. It’s main members are as follows",
+            "description_ka": "ನಾವು SPORTI ನಲ್ಲಿ ಅಧಿಕಾರಿಗಳು ಮತ್ತು ನಿವೃತ್ತ ಪೊಲೀಸ್ ಅಧಿಕಾರಿಗಳಿಗೆ ಅಭಿನಂದನೆಗಳನ್ನು ಆಯೋಜಿಸುತ್ತೇವೆ. ಎಲ್ಲಾ-ಅಂತರ್ಗತ ಸೌಲಭ್ಯಗಳೊಂದಿಗೆ ಪೊಲೀಸ್ ಇಲಾಖೆಯ ಕುಟುಂಬ ಮತ್ತು ಸ್ನೇಹಿತರಿಗಾಗಿ SPORTI ತನ್ನನ್ನು ತಾನು ಪ್ರಮುಖ ಸ್ಥಳವೆಂದು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತದೆ.\n SPORTI ನಲ್ಲಿ ಈವೆಂಟ್‌ಗಳ ಆಯ್ಕೆಗೆ ಅವಕಾಶ ಕಲ್ಪಿಸಲು ತೃಪ್ತಿಕರವಾದ ಆತಿಥ್ಯ, ಅನುಕೂಲತೆ ಮತ್ತು ಸುಲಭವಾಗಿ ಪ್ರವೇಶಿಸುವಿಕೆಯನ್ನು ಅನುಭವಿಸಬಹುದು ಮತ್ತು ವೃತ್ತಿಪರರಲ್ಲಿ ವಿವಿಧ ಕಾರ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಪೂರ್ಣ ಪ್ರಮಾಣದ ಆಂತರಿಕ ತರಬೇತಿ ಪಡೆದ ತಂಡಗಳೊಂದಿಗೆ ನಿಮ್ಮ ಈವೆಂಟ್ ಅನ್ನು ಭವ್ಯವಾದ ಯಶಸ್ಸನ್ನು ಮಾಡಲು ನಾವು ವಿಶ್ವಾಸಾರ್ಹ ವೇದಿಕೆಯಾಗಿದ್ದೇವೆ. ಮಟ್ಟದ.\n ಈ ಪೋರ್ಟಲ್ SPORTI ನಲ್ಲಿ, ನೀವು ಸುಲಭ ಬುಕಿಂಗ್ ಮತ್ತು ಪಾವತಿ ಗೇಟ್‌ವೇಗಳೊಂದಿಗೆ ಕ್ಯಾಲೆಂಡರ್, ಈವೆಂಟ್‌ಗಳು ಮತ್ತು ಸೇವೆಗಳಿಗೆ ಪ್ರವೇಶವನ್ನು ಪಡೆಯುತ್ತೀರಿ.\n ಟೇಬಲ್ ಬುಕಿಂಗ್, ಈವೆಂಟ್‌ಗಳನ್ನು ಆಯೋಜಿಸುವುದು, ಆಹಾರ ಮತ್ತು ಪಾನೀಯಗಳ ಸರಬರಾಜು, ಕುಟುಂಬ ಕೂಟಗಳಿಗೆ ವಸತಿ, ವೈಯಕ್ತಿಕ ಮತ್ತು ವೃತ್ತಿಪರ ಸಭೆಗಳನ್ನು ನಿಗದಿಪಡಿಸುವುದು ಮತ್ತು ಕಸ್ಟಮೈಸ್ ಮಾಡಿದ ಆಹಾರದ ಆಯ್ಕೆಗಳೊಂದಿಗೆ ವಿರಾಮ ವಸತಿಗಳಂತಹ ವಿವಿಧ ಸೇವೆಗಳನ್ನು ಒದಗಿಸುವ ಮೂಲಕ ಪೊಲೀಸ್ ಇಲಾಖೆಗೆ ಶ್ರೇಷ್ಠತೆಯ ಸೇವೆಯನ್ನು ಒದಗಿಸಲು ನಾವು ಬದ್ಧರಾಗಿದ್ದೇವೆ.",
+            "image_url": "/images/aboutus/smwaus_3.jpg",
+            "name_en": "What do we do? ",
+            "name_ka": "ನಾವು ಏನು ಮಾಡುವುದು?"
+        }
+    ]
+}
