@@ -1,0 +1,117 @@
+[
+    {
+        "media": [
+            {
+                "url": "/images/events/SportiGallery/1.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/2.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/3.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/4.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/5.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/6.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/7.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/8.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/9.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/10.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/11.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/12.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/13.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/14.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/15.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/16.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/17.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/18.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/19.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/20.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/21.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/22.JPG"
+            },
+            {
+                "url": "/images/events/SportiGallery/23.JPG"
+            }
+        ],
+        "name_en": "SPORTI-Gallery",
+        "name_ka": "ಸ್ಪೋರ್ಟಿ-ಗ್ಯಾಲರಿ",
+        "event_from_dt": "2023-05-27 21:30:00.0",
+        "event_id": 1992
+    },
+    {
+        "media": [
+            {
+                "url": "/images/events/MiniTheatreOpening/srwe_2017_1.jpg"
+            },
+            {
+                "url": "/images/events/MiniTheatreOpening/srwe_2017_2.jpg"
+            },
+            {
+                "url": "/images/events/MiniTheatreOpening/srwe_2017_3.jpg"
+            },
+            {
+                "url": "/images/events/MiniTheatreOpening/srwe_2017_4.jpg"
+            },
+            {
+                "url": "/images/events/MiniTheatreOpening/srwe_2017_5.jpg"
+            },
+            {
+                "url": "/images/events/MiniTheatreOpening/srwe_2017_6.jpg"
+            },
+            {
+                "url": "/images/events/MiniTheatreOpening/srwe_2017_7.jpg"
+            },
+            {
+                "url": "/images/events/MiniTheatreOpening/srwe_2017_8.jpg"
+            },
+            {
+                "url": "/images/events/MiniTheatreOpening/srwe_2017_9.jpg"
+            },
+            {
+                "url": "/images/events/MiniTheatreOpening/srwe_2017_10.jpg"
+            }
+        ],
+        "name_en": "Mini Theatre Opening Ceremony",
+        "name_ka": "ಮಿನಿ ಥಿಯೇಟರ್ ಉದ್ಘಾಟನಾ ಸಮಾರಂಭ",
+        "event_from_dt": "2023-07-12 21:30:00.0",
+        "event_id": 1993
+    }
+]
